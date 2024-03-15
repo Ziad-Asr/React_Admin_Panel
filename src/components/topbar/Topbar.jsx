@@ -16,11 +16,11 @@ const Topbar = () => {
         <div className="topRight">
           <div className="topbarIconContainer">
             <NotificationsNoneOutlinedIcon />
-            <span className="topIconBadge">2</span>
+            <span className="topIconBadge">1</span>
           </div>
           <div className="topbarIconContainer">
             <LanguageOutlinedIcon />
-            <span className="topIconBadge">2</span>
+            <span className="topIconBadge">5</span>
           </div>
           <div className="topbarIconContainer">
             <SettingsOutlinedIcon />

@@ -1,7 +1,7 @@
 import "./user.css";
 
 const User = () => {
-  return <div>User</div>;
+  return <div className="user">User</div>;
 };
 
 export default User;

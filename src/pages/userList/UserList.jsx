@@ -1,7 +1,7 @@
 import "./userList.css";
 
 const UserList = () => {
-  return <div>UserList</div>;
+  return <div className="userList">UserList</div>;
 };
 
 export default UserList;

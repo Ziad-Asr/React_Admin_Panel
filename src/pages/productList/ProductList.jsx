@@ -1,7 +1,7 @@
 import "./productList.css";
 
 const ProductList = () => {
-  return <div>ProductList</div>;
+  return <div className="productList">ProductList</div>;
 };
 
 export default ProductList;
